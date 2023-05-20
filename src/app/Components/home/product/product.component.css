@@ -1,0 +1,9 @@
+.myproduct {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(158, 151, 154);
+}
+.card-text{
+  height: 50px;
+  overflow: hidden;
+}
